@@ -1,0 +1,2 @@
+# COSI152A_Final-Project
+The Brandeis University Student and Alumni Association (BUSAA) is a group dedicated to building a community between current students and alumni of Brandeis University. BUSAA is looking to develop a web application that allows its members to connect with each other, share information about job opportunities, post events and communicate through a chat feature. Additionally, BUSAA wants to display a list of upcoming events on the website and allow users to join an event through a modal.
